@@ -1,0 +1,2 @@
+# Currently only avoiding including the virtual environment
+env/
